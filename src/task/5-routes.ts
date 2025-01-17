@@ -1,5 +1,5 @@
 import { namespaceWrapper, app } from "@_koii/namespace-wrapper";
-import { getPinnedCIDs, addIPFSCID, getIPFSCID } from "./ipfsEndpoints.js";
+import { getPinnedCIDs, addIPFSCID, getIPFSCID } from "./ipfsEndpoints";
 import multer from 'multer';
 
 /**

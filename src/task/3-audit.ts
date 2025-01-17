@@ -1,6 +1,6 @@
 import { namespaceWrapper } from "@_koii/namespace-wrapper";
 import axios from 'axios';
-import { baseIpfsGatewayUrl } from './ipfsEndpoints.js';
+import { baseIpfsGatewayUrl } from './ipfsEndpoints';
 
 interface Submission {
   cids: string[];
