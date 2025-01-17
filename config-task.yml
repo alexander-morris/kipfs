@@ -5,7 +5,7 @@ author: 'Ben Harper'
 # Task Description: (Required) 
 description: 'description'
 # Repository URL: (Required)
-repositoryUrl: 'https://github.com/koii-network/task-template' 
+repositoryUrl: 'https://github.com/ben-harper27/koii-ipfs-task-final' 
 # Image URL: (Required) Will be displayed in desktop node
 imageUrl: 'imageUrl'
 # Info URL: (Required) Will be displayed in desktop node

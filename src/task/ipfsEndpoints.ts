@@ -12,7 +12,7 @@ interface IpfsResponse {
 export const baseIpfsApiUrl = 'http://127.0.0.1:5001';
 export const baseIpfsGatewayUrl = 'http://127.0.0.1:8080';
 
-const connection = new Connection('https://testnet.koii.network');
+const connection = new Connection('https://mainnet.koii.network');
 
 export const getIPFSCID = async (req: Request, res: Response): Promise<void> => {
   try {
